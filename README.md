@@ -104,7 +104,7 @@ ngrok http 5000
 Copy the generated URL (e.g., `https://xyz.ngrok-free.app`) and use it for API calls.
 
 2️⃣ Deploy to Cloud (AWS, GCP, Render)
-- *S EC2: Deploy via Flask and set up `gunicorn`
+- *AWS EC2: Deploy via Flask and set up `gunicorn`
 - Render: Use their free Flask deployment
 - Google Cloud Run: Serverless deployment
 
